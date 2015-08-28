@@ -24,7 +24,6 @@ com.android.wallpaper.livepicker
 com.att.eptt
 com.att.myWireless
 com.borqs.camera
-com.borqs.dm
 com.borqs.facebooksyncadapter
 com.borqs.flickr
 com.borqs.hotspot
@@ -56,6 +55,4 @@ com.telenav.app.android.cingular
 com.wildtangent.android
 com.yellowpages.android.ypmobile
 de.robv.android.xposed.installer
-eu.chainfire.adbd
-eu.chainfire.supersu
 search.borqssearch
